@@ -1,0 +1,3 @@
+variable "condition" {
+  default = true
+}
